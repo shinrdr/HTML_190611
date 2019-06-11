@@ -32,4 +32,4 @@ B. 快速鍵 (Windows)：https://code.visualstudio.com/docs/getstarted/keybindin
 	. Alt + ↑ / ↓：可以搬移程式碼(可以多行)
 
 	. Shift + Alt + ↓ / ↑：可以複製一行
-	
+	hjgkhjgk
